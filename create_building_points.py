@@ -1,5 +1,4 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 from shapely.geometry import Point
 from geopandas import GeoDataFrame
 
